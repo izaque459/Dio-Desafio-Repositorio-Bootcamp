@@ -1,0 +1,3 @@
+Download do GitBash: https://git-scm.com/downloads
+
+O GitBash é uma ferramenta essencial , um terminal para otimizar o uso do Git
